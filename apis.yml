@@ -1,0 +1,32 @@
+aid: jiosaavn
+name: JioSaavn
+description: "API to retrieve song information, album meta data and many more from JioSaavn"
+url: https://github.com/cyberboysumanjay/JioSaavnAPI
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Music"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Music
+  - Public APIs
+apis:
+  - name: JioSaavn
+    description: "API to retrieve song information, album meta data and many more from JioSaavn"
+    humanURL: https://github.com/cyberboysumanjay/JioSaavnAPI
+    baseURL: https://github.com/cyberboysumanjay/JioSaavnAPI
+    tags:
+      - Music
+    properties:
+      - type: Documentation
+        url: https://github.com/cyberboysumanjay/JioSaavnAPI
+common:
+  - type: Website
+    url: https://github.com/cyberboysumanjay/JioSaavnAPI
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

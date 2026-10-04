@@ -39,7 +39,6 @@ apis:
   - name: JioSaavn
     description: "API to retrieve song information, album meta data and many more from JioSaavn"
     humanURL: https://github.com/cyberboysumanjay/JioSaavnAPI
-    baseURL: https://github.com/cyberboysumanjay/JioSaavnAPI
     tags:
       - Music
     properties:
